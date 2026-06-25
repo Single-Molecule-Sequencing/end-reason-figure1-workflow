@@ -1,0 +1,11 @@
+{
+  "figure_id": "fig1_workflow",
+  "paper_id": "end-reason",
+  "generated_at": "2026-06-25T00:00:00Z",
+  "source_repo": "Single-Molecule-Sequencing/end-reason-fresh",
+  "source_commit": "7e4590c",
+  "source_path": "manuscript/figures/fig1_workflow.pdf",
+  "sha256": "3ba6c66e75c0f688b02fbf4d91901e918b2300dae532897127ee81a145835ad5",
+  "regenerable": true,
+  "notes": "2026-06-25: selectively enlarged the small right-column labels/icons (DATA WRITTEN, FILE TYPE icons + names, END REASON METADATA values, column headers) in place via scripts/enlarge_fig1_labels.py (white-out + vector re-draw scaled per element; MyriadPro font + row alignment preserved; canvas widened 32pt on the right). Original preserved at source_artwork/fig1_workflow_orig.pdf."
+}

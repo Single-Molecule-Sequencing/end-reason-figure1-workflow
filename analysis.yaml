@@ -1,0 +1,17 @@
+schema_version: 1
+id: end-reason-figure1-workflow
+title: "End-Reason Figure 1: Workflow illustration"
+status: documented
+maturity_tier: 2
+pi: Athey Lab
+experiments: []
+topics:
+  - end-reason
+  - workflow
+  - illustration
+  - provenance
+summary: >
+  Companion analysis/provenance repo for the Figure 1 workflow illustration.
+  Reproducibility scope is curated source-artwork packaging and format conversion.
+created: "2026-06-25"
+harvested_by: []

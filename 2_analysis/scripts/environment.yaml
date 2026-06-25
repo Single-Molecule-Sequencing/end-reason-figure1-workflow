@@ -1,0 +1,6 @@
+name: end-reason-figure1-workflow
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - poppler
