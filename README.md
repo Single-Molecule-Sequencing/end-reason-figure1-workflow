@@ -1,7 +1,7 @@
 # End-Reason Figure 1 — Workflow Illustration
 
 <!-- LAB:DASHBOARD-BADGE BEGIN -->
-📊 **[Live dashboard](https://single-molecule-sequencing.github.io/end-reason-figure1-workflow/)**
+📊 **[Live dashboard](https://cuddly-fortnight-y8lzlrw.pages.github.io/)**
 <!-- LAB:DASHBOARD-BADGE END -->
 
 Companion repo for Figure 1 from the end-reason manuscript.
