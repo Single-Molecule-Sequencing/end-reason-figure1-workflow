@@ -4,7 +4,7 @@
 
 
 <!-- LAB:DASHBOARD-BADGE BEGIN -->
-📊 **[Live dashboard](https://cuddly-fortnight-y8lzlrw.pages.github.io/)**
+📊 **[Live dashboard](https://rdlu0053.tail46dbe4.ts.net:8464/artifacts/mirror/end-reason-figure1-workflow/index.html)**
 <!-- LAB:DASHBOARD-BADGE END -->
 
 Companion repo for Figure 1 from the end-reason manuscript.
